@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	font-family: Helvetica;
+	color: red;
+}
+
+#logo {
+	height: 180px;
+	width: 180px;
+	border-radius: 90px;
+}
+
+#container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	flex-direction: column;
+}
